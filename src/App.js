@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Geo from './Geo2.js';
-import Map from './Map.js';
+import Geo from './Geo.js';
+//import {Container, Map} from './Map3.js';
 import 'react-geolocation';
 
 class App extends Component {
@@ -19,7 +19,7 @@ class App extends Component {
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
         <Geo></Geo>
-        {/* <Map /> */}
+
       </div>
     );
   }

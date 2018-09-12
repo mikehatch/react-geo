@@ -5,6 +5,7 @@
   "dependencies": {
     "@types/react": "^16.4.13",
     "geolocation": "^0.2.0",
+    "google-maps-react": "^2.0.2",
     "react": "^16.5.0",
     "react-dom": "^16.5.0",
     "react-geolocation": "^1.0.4",
