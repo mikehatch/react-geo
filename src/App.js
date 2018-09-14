@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Geo from './Geo.js';
+//import Geo from './Geo.js';
+import Geo from './GeoWithMap'
 //import {Container, Map} from './Map3.js';
 import 'react-geolocation';
 
